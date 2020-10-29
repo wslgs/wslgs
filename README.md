@@ -1,7 +1,7 @@
 ## Hello! I'm Weslley Gomes Dantas
 
 #### Contact me:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://github.com/wslgs)](https://github.com/wslgs)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/wslgs)](www.linkedin.com/in/wslgs)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-48AAFF?style=flat&logo=Microsoft&logoColor=0072C6&link=mailto:weslley_45@hotmail.com)](mailto:weslley_45@hotmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4A39?style=flat&logo=Gmail&logoColor=white&link=mailto:weslley_45@eng.ci.ufpb.br)](mailto:weslley_45@eng.ci.ufpb.br)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wslgs)](https://twitter.com/wslgs)
