@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello! I'm Weslley Gomes Dantas
 
-<!--
-**wslgs/wslgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contact me:
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://github.com/wslgs)](https://github.com/wslgs)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-48AAFF?style=flat&logo=Microsoft&logoColor=0072C6&link=mailto:weslley_45@hotmail.com)](mailto:weslley_45@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4A39?style=flat&logo=Gmail&logoColor=white&link=mailto:weslley_45@eng.ci.ufpb.br)](mailto:weslley_45@eng.ci.ufpb.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wslgs)](https://twitter.com/wslgs)
 
-Here are some ideas to get you started:
+#### About me:
+I'm a student of *Computer Engineering* at **UFPB** (Universidade Federal da Paraíba).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fascinated in ``AI``, ``machine learning`` and ``data processing``. Junior programmer, **Wattpad** novice writer and a piano lover.
+I'm available for conversations!
