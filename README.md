@@ -9,8 +9,8 @@ ___
 
 ## :information_source: About Me
   
-🎓 I'm a student of *Computer Engineering* at [UFPB].(https://www.ufpb.br/) </br>
-💻 Fascinated in ``AI``, ``machine learning`` and ``data processing``. Junior programmer, **Wattpad** novice writer and a piano lover. </br>
+🎓 I'm a student of *Computer Engineering* at [UFPB](https://www.ufpb.br/) </br>
+💻 Fascinated in ``AI``, ``machine learning`` and ``data processing``. Junior programmer, **Wattpad** novice writer and a piano lover </br>
 🤝 I'm available for conversations! </br>
 
 
