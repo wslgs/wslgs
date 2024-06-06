@@ -1,22 +1,30 @@
-<p align="center">
-<a href="https://github.com/wslgs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wslgs&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wslgs&theme=vue&layout=compact&langs_count=15" />
-</a>
-</p>
+# Weslley Gomes Dantas
 
-___
+👋 Hi, I'm Weslley Gomes Dantas, a dedicated DevOps and Developer specializing in automation and systems management. I have extensive experience in cloud computing and a results-driven approach. My goal is to integrate best practices to deliver high-quality outcomes.
 
-## :information_source: About Me
-  
-🎓 I'm a student of *Computer Engineering* at [UFPB](https://www.ufpb.br/) </br>
-💻 Fascinated in ``AI``, ``machine learning`` and ``data processing``. Junior programmer, **Wattpad** novice writer and a piano lover </br>
-🤝 I'm available for conversations! </br>
+## 🔧 Skills & Tools
+- **Languages:** Python, JavaScript, Bash
+- **DevOps Tools:** Docker, Kubernetes, Ansible, Terraform
+- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Monitoring:** Prometheus, Grafana, ELK Stack
+- **Version Control:** Git, GitHub, GitLab
 
+## 📚 Experience
+- Implementing Infrastructure as Code (IaC) with Terraform
+- Managing containerized applications with Docker and Kubernetes
+- Automating workflows and deployments with Ansible and Jenkins
+- Setting up and maintaining cloud infrastructure on AWS, Azure, and GCP
+- Ensuring security best practices and compliance in cloud environments
+- Monitoring and logging with Prometheus, Grafana, and the ELK Stack
 
-## ✉ Contact Me
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/wslgs)
+- [Email](mailto:weslley_45@hotmail.com)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wslgs/)](https://www.linkedin.com/in/wslgs/)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-48AAFF?style=flat&logo=Microsoft&logoColor=0072C6&link=mailto:weslley_45@hotmail.com)](mailto:weslley_45@hotmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4A39?style=flat&logo=Gmail&logoColor=white&link=mailto:weslley_45@eng.ci.ufpb.br)](mailto:weslley_45@eng.ci.ufpb.br)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/wslgs)](https://twitter.com/wslgs)
+## 🚀 Let's Collaborate!
+I'm always open to new opportunities and collaborations. Feel free to reach out if you have an exciting project or just want to connect!
+
+---
+
+![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wslgs&show_icons=true&theme=radical)
