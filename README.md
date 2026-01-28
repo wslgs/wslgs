@@ -1,47 +1,49 @@
 # Weslley Gomes Dantas
 
-👋 Olá, sou **Weslley Gomes Dantas**, apaixonado por tecnologia, automação e inovação. Atuo como **DevOps, SRE e FinOps**, com foco em **infraestrutura em nuvem, observabilidade, automação de processos e integração de sistemas**. Além disso, sou estudante de **Engenharia da Computação na UNIPÊ**, sempre buscando alinhar teoria e prática para entregar soluções eficientes e escaláveis.
+DevOps | SRE | FinOps  
+Engenharia da Computação — UNIPÊ  
+João Pessoa, Brasil
+
+Profissional de tecnologia com foco em **infraestrutura em nuvem, automação, observabilidade e confiabilidade de sistemas**. Atuo na construção de ambientes **escaláveis, resilientes e otimizados em custo**, aplicando práticas de **DevOps, SRE e FinOps** para melhorar desempenho, estabilidade e eficiência operacional.
 
 ---
 
-## 🔧 Skills & Tools
+## Stack
 
-* **Linguagens:** Python, JavaScript/TypeScript, Bash, SQL
-* **DevOps & Cloud:** Docker, Kubernetes, Ansible, Terraform, Helm
-* **Cloud Platforms:** AWS, Azure, Google Cloud
-* **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-* **Observabilidade:** Prometheus, Grafana, ELK Stack, Loki
-* **Banco de Dados:** PostgreSQL, Oracle, MySQL
-* **Versionamento:** Git, GitHub, GitLab
-* **Outros:** n8n (automação de fluxos), WebSockets, APIs REST/GraphQL, Expo/React Native
+**Linguagens**  
+Python · JavaScript/TypeScript · Bash · SQL  
 
----
+**DevOps & Cloud**  
+Docker · Kubernetes · Helm · Terraform · Ansible  
+AWS · Azure · Google Cloud  
 
-## 📚 Experiência
+**CI/CD**  
+GitHub Actions · GitLab CI · Jenkins  
 
-* 🚀 **Infraestrutura como Código (IaC):** Criação e manutenção de ambientes escaláveis e replicáveis com Terraform e Ansible.
-* 🐳 **Containers & Orquestração:** Gestão de aplicações em Docker e Kubernetes, incluindo pipelines de deploy automatizados.
-* ☁️ **Cloud:** Provisionamento e gerenciamento de serviços na AWS, Azure e GCP, sempre com foco em otimização de custos (**FinOps**).
-* 🔐 **Segurança & Compliance:** Aplicação de melhores práticas de segurança em pipelines e ambientes em nuvem.
-* 📊 **Observabilidade:** Implementação de monitoramento e logging centralizado (Prometheus, Grafana, ELK).
-* 🔄 **Integrações & Automação:** Criação de fluxos inteligentes com n8n e integração com APIs externas (ex.: Mercado Libre, Google Drive).
-* 📱 **Desenvolvimento de Aplicações:** Back-end em Django/Node.js e apps mobile em React Native (Expo).
-* 🗺️ **Soluções em Geolocalização & Logística:** Desenvolvimento de features como cálculo de rotas, rastreamento em tempo real e sistemas de coleta seletiva (Zero Waste, Remota Safe).
+**Observabilidade**  
+Prometheus · Grafana · Loki · ELK  
+
+**Bancos de Dados**  
+PostgreSQL · Oracle · MySQL  
+
+**Outros**  
+n8n · APIs REST/GraphQL · WebSockets · React Native (Expo) · Django · Node.js
 
 ---
 
-## 🌐 Conecte-se comigo
+## Experiência
 
-* [LinkedIn](https://www.linkedin.com/in/wslgms)
-* [Email](mailto:weslley_45@hotmail.com)
-* [GitHub](https://github.com/wslgs)
-
----
-
-## 🚀 Vamos Colaborar!
-
-Estou sempre aberto a novas oportunidades e colaborações em projetos desafiadores que envolvam **automação, cloud computing, integrações inteligentes e inovação tecnológica**. Se tiver uma ideia ou projeto interessante, será um prazer conversar!
+- Infraestrutura como Código (IaC) para ambientes escaláveis e replicáveis  
+- Containers e orquestração com pipelines de deploy automatizados  
+- Provisionamento e gestão de serviços em cloud com foco em custo e performance  
+- Implementação de monitoramento, métricas e logging centralizado  
+- Automação de processos e integrações com APIs externas  
+- Desenvolvimento de soluções para logística, geolocalização e rastreamento
 
 ---
 
-![Weslley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wslgs\&show_icons=true\&theme=radical)
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/wslgms  
+GitHub: https://github.com/wslgs  
+Email: weslley_45@hotmail.com
