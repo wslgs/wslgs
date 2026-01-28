@@ -44,6 +44,6 @@ n8n · APIs REST/GraphQL · WebSockets · React Native (Expo) · Django · Node.
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/wslgms  
+LinkedIn: https://www.linkedin.com/in/wslgs  
 GitHub: https://github.com/wslgs  
 Email: weslley_45@hotmail.com
